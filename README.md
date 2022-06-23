@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a systems architect.<br><br>🌱 I’m currently learning deep learning<br><br>💬 Ask me about javascript, PHP, Python, R<br><br>⚡ Fun fact, I play the guitar, though not very well.
+I am a systems architect.<br><br>🌱 I’m currently learning deep learning<br><br>⚡ Fun fact, I play the guitar, though not very well.
 
 
 ## 🌐 Socials:
